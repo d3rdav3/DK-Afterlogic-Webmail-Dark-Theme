@@ -3,9 +3,9 @@ Dark Theme for Afterlogic Webmail lite and pro
 
 This theme is in development but works. At this moment the settings pages are not 100% donw.
 
-https://user-images.githubusercontent.com/54513590/119798663-a4630480-bedb-11eb-96ac-a0933c3b8469.jpg
 
 
+![Alt text](https://user-images.githubusercontent.com/54513590/119798663-a4630480-bedb-11eb-96ac-a0933c3b8469.jpg?raw=true "Screenshot")
 
 
 How to Install:
